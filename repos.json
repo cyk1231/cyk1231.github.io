@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-09T15:13:27.279986Z",
+  "generated_at": "2026-08-09T18:33:50.756250Z",
   "pinned": [],
   "repos": [
     {
       "name": "cyk1231.github.io",
       "description": "My personal card-style blog",
-      "language": null,
+      "language": "HTML",
       "stargazers_count": 0,
       "html_url": "https://github.com/cyk1231/cyk1231.github.io",
-      "updated_at": "2026-08-09T15:00:10Z",
+      "updated_at": "2026-08-09T15:13:54Z",
       "fork": false,
       "archived": false,
       "topics": [],
