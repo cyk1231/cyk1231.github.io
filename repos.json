@@ -1,8 +1,66 @@
 {
-  "generated_at": "2026-08-09T15:00:00Z",
-  "pinned": [
-    "BBS_Spider",
-    "RS-GSSR"
-  ],
-  "repos": []
+  "generated_at": "2026-08-09T15:13:27.279986Z",
+  "pinned": [],
+  "repos": [
+    {
+      "name": "cyk1231.github.io",
+      "description": "My personal card-style blog",
+      "language": null,
+      "stargazers_count": 0,
+      "html_url": "https://github.com/cyk1231/cyk1231.github.io",
+      "updated_at": "2026-08-09T15:00:10Z",
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "homepage": null
+    },
+    {
+      "name": "BBS_Spider",
+      "description": "瀚海星云BBS爬虫",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 2,
+      "html_url": "https://github.com/cyk1231/BBS_Spider",
+      "updated_at": "2026-07-29T15:56:41Z",
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "homepage": null
+    },
+    {
+      "name": "epicure-recipe-recommender",
+      "description": "Epicure flavor science recipe recommender skill for Hermes Agent",
+      "language": null,
+      "stargazers_count": 0,
+      "html_url": "https://github.com/cyk1231/epicure-recipe-recommender",
+      "updated_at": "2026-05-31T14:01:09Z",
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "homepage": null
+    },
+    {
+      "name": "RS-GSSR",
+      "description": "This is the official PyTorch implementation of the paper:  C. Shao, H. Li and H. Shen, \"Generative Shadow Synthesis and Removal for Remote Sensing Images Through Embedding Illumination Models,\" in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-15, 2025, Art no. 5620115, doi: 10.1109/TGRS.2025.3561307. ",
+      "language": null,
+      "stargazers_count": 0,
+      "html_url": "https://github.com/cyk1231/RS-GSSR",
+      "updated_at": "2026-02-13T02:31:50Z",
+      "fork": true,
+      "archived": false,
+      "topics": [],
+      "homepage": null
+    },
+    {
+      "name": "USTC_CG_25",
+      "description": "Homework repo for the course \"Computer Graphics\" in the 2025 spring @USTC",
+      "language": "C++",
+      "stargazers_count": 0,
+      "html_url": "https://github.com/cyk1231/USTC_CG_25",
+      "updated_at": "2025-03-09T13:06:51Z",
+      "fork": true,
+      "archived": false,
+      "topics": [],
+      "homepage": "http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2025_spring-summer/default.htm"
+    }
+  ]
 }
